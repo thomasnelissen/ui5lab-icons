@@ -1,5 +1,5 @@
 {
-	"ui5lab.tn.FontAwesomeIcons": {
+	"ui5lab.tn.icons": {
 		"icon": "sap-icon://crm-sales",
 		"name": "3th party Icon Fonts",
 		"description": "A SAPUI5 library that enables you to use other icon fonts",
