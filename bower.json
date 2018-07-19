@@ -1,6 +1,6 @@
 {
-	"name": "ui5lab-tn-FontAwesomeIcons",
-	"description": "Custom UI5 library for the UI5Lab project",
+	"name": "ui5lab-tn-icons",
+	"description": "Use 3th party IconFonts in SAPUI5",
 	"private": true,
 	"dependencies": {
 		"openui5-sap.ui.core": "openui5/packaged-sap.ui.core",

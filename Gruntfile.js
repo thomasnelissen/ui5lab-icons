@@ -4,7 +4,7 @@ module.exports = function(grunt) {
 
 	grunt.initConfig({
 
-		libraryName: 'ui5lab.tn.FontAwesomeIcons',
+		libraryName: 'ui5lab.tn.icons',
 
 		dir: {
 			src: 'src',

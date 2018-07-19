@@ -1,7 +1,7 @@
 {
-	"name": "ui5lab-tn-FontAwesomeIcons",
+	"name": "ui5lab-tn-icons",
 	"version": "0.0.1",
-	"description": "Custom UI5 library for the UI5Lab project",
+	"description": "Use 3th party IconFonts in SAPUI5",
 	"repository": {
 		"type": "git",
 		"url": "github"
