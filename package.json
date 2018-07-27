@@ -1,7 +1,7 @@
 {
 	"name": "ui5lab-tn-icons",
 	"version": "0.0.1",
-	"description": "Use 3th party IconFonts in SAPUI5",
+	"description": "Use 3rd party icon fonts in SAPUI5",
 	"repository": {
 		"type": "git",
 		"url": "github"
