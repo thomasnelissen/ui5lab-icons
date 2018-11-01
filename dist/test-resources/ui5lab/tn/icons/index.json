@@ -1,10 +1,9 @@
 {
 	"ui5lab.tn.icons": {
 		"icon": "sap-icon://crm-sales",
-		"name": "3th party Icon Fonts",
+		"name": "3rd party icon fonts",
 		"description": "A SAPUI5 library that enables you to use other icon fonts",
-		"source": "<github>",
-		"documentation": "github readme",
+		"source": "https://github.com/TNFlexso/ui5lab-icons",
 		"license": "MIT",
 		"version": 1.0,
 		"content": {
